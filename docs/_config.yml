@@ -19,13 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 repository: seegler/seegler.github.io
 title: seegler.github.io
+logo: "assets/images/srishti-logo-200x200.png"
 email: seegler@gmail.com
-description: "Sharing some of the tools and utilities I developed earlier for myself."
+description: "Tools and utilities to deal with facts of life."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://seegler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: seegler
 github_username:  seegler
+owner_thumb_360: "assets/images/seegler-2017-circle-1-360x360.jpg"
+owner_name: "Seegler"
+owner_website: "https://www.seegler.in"
 
+email_link_icon: "assets/images/email-link.png"
 # Build settings
 theme: jekyll-theme-minimal
 plugins:

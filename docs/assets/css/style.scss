@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+p#bio_thumbs {
+	text-align:"center";
+}
+
+p#bio_thumbs a{
+	display:inline-block; 
+	width:25px;
+}
