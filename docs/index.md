@@ -2,15 +2,9 @@
 
 My Wallet
 
-Identity Manager
-
-Stream Anywhere
-
 Streaming Droid
 
-Archive My Messages
-
-Webcopy
+Email Archiver
 
 Caller Profiler
 

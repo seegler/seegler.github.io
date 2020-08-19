@@ -21,7 +21,7 @@ repository: seegler/seegler.github.io
 title: seegler.github.io
 logo: "assets/images/srishti-logo-200x200.png"
 email: seegler@gmail.com
-description: "Tools and utilities to deal with facts of life."
+description: "Tools, utilities and tutorials on various subjects."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://seegler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: seegler
