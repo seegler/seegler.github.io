@@ -14,7 +14,7 @@
 
 **Django-Supervisor-NGINX-Gunicorn-Postgresql fullstack Python application**
 
-* A discussion forum appilication with Boards, Topics and Posts
+* A discussion forum application with Boards, Topics and Posts
 * Django MVT, Reusable templates, ORM, FBV, CBV, GCBVs
 * Reusable GCBV form, rendering, submission and validation
 * Authentication, Authorization, User Sign up, Sign in, Profile Edit, Forgot Password, Change Password etc.
